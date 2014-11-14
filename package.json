@@ -1,0 +1,11 @@
+{
+  "name": "pnodeify",
+  "version": "0.0.1",
+  "description": "Turns promises into Node-style callbacks",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Phillips",
+  "license": "MIT"
+}
